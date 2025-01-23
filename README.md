@@ -22,7 +22,7 @@ This Arduino-based poker scale is a custom-built system designed to simplify the
 3. **HX711 Amplifier**: Interfaces with the load cells to provide precise measurements.
 4. **4 x 1kg Load Cells**: Ensures accurate weight detection for poker chips.
 5. **3D-Printed Chassis**: Custom design to fit the scale's hardware components.
-6. **Buttons**: Two tactile buttons for Tare and Menu functionality.
+6. **2 x Buttons**: Tactile buttons for Tare and Menu functionality.
 
 ## Functionality
 ### Tare Function
